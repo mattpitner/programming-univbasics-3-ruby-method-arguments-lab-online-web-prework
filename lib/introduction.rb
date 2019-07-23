@@ -1,5 +1,5 @@
 name = "Matt"
 
-introduction (name) do 
+def introduction (name) do 
   puts "Hi, my name is #{name}"
 end
